@@ -1,6 +1,6 @@
 # Principal Component Analysis (PCA) on 3D Clustered Data
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MaksymilianSzymczak/ML24/blob/master/Domowe1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MaksymilianSzymczak/ML24/blob/master/Domowe_1.ipynb)
 
 ## Task Description
 The task involves performing PCA on a 3D dataset containing three distinct clusters. We visualize the data in 2D after dimensionality reduction and compare it with the original feature spaces.
