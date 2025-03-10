@@ -21,7 +21,7 @@ Compare this PCA plot with the following 2D plots of the original data:
 Does PCA improve the separation of data points from different clusters compared to the original feature spaces? Explain why.
 
 **Odpowiedź:**
-PCA może poprawić separację klastrów, ponieważ skupia się na kierunkach w danych, które maksymalizują wariancję. Jeśli różnice między klastrami są związane z tymi kierunkami, PCA może lepiej uwidocznić grupowanie. W porównaniu z oryginalnymi cechami, PCA eliminuje redundancję i redukuje szum, co może prowadzić do lepszej separacji.
+PCA może poprawić separację klastrów, ponieważ skupia się na kierunkach w danych, które maksymalizują wariancję. Widzimy, że żółte i zielone punkty nachodzą na siebie w niemałym stopniu, natomiast po analizie wykresu 3D widać dlaczego.
 
 ### Secondary Question
 Remember: before applying PCA, standardize the data so that each feature has a mean of 0 and a variance of 1.
@@ -34,7 +34,3 @@ Reflect on how differences in scale among features can impact the principal comp
 Standaryzacja jest konieczna, ponieważ PCA jest wrażliwe na skalę danych. Jeśli cechy mają różne jednostki lub zakresy wartości, cechy o większej skali będą dominować w obliczeniach wariancji, co może zniekształcić kierunki głównych składowych. Standaryzacja zapewnia, że każda cecha ma równy wpływ na analizę.
 
 ---
-
-## How to Run the Notebook?
-1. Click the **"Open in Colab"** button above to open the notebook in Google Colab.
-2. Run all cells to see the results.
