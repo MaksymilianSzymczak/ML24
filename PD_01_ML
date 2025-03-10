@@ -112,3 +112,9 @@
     }
   ]
 }
+
+# PCA Homework Assignment
+
+This repository contains the Colab notebook for the PCA homework assignment.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MaksymilianSzymczak/ML24/blob/main/PD_01_ML.ipynb)
