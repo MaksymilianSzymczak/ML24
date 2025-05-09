@@ -11,5 +11,6 @@ Homework 5: https://github.com/MaksymilianSzymczak/ML24/blob/449ddec64890a63cfde
 .
 .
 Homework 9: https://github.com/MaksymilianSzymczak/ML24/blob/ac91a21a1fe1a71a61c4ecb62ab62638d32cd29a/domowe9.ipynb
+
 Ad homweork 9 (animation) https://github.com/MaksymilianSzymczak/ML24/blob/fe29fdefbd5f7614d1bbfe3c79b990099305b98c/dream_evolution%20(4).mp4
 
