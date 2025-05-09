@@ -11,4 +11,5 @@ Homework 5: https://github.com/MaksymilianSzymczak/ML24/blob/449ddec64890a63cfde
 .
 .
 Homework 9: https://github.com/MaksymilianSzymczak/ML24/blob/ac91a21a1fe1a71a61c4ecb62ab62638d32cd29a/domowe9.ipynb
-ad homweork 9 (animation) /content/dream_evolution.mp4
+ad homweork 9 (animation) [Zobacz animację neural network dreams (MP4)](dream_evolution.mp4)
+
