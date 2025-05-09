@@ -7,3 +7,8 @@ Homework 2: https://github.com/MaksymilianSzymczak/ML24/blob/20d37939481c792866e
 Homework 3: https://github.com/MaksymilianSzymczak/ML24/blob/1d076fa719a0b329669ee4462cf9b0c5d858ceba/domowe_3.2.ipynb
 Homework 4: https://github.com/MaksymilianSzymczak/ML24/blob/2dd635f5a685109a4da581ac5ec7cea50119f609/domowe_4.ipynb
 Homework 5: https://github.com/MaksymilianSzymczak/ML24/blob/449ddec64890a63cfde35723d5a138b8ba832a57/Domowe_5.1.ipynb
+.
+.
+.
+Homework 9: https://github.com/MaksymilianSzymczak/ML24/blob/ac91a21a1fe1a71a61c4ecb62ab62638d32cd29a/domowe9.ipynb
+ad homweork 9 (animation) /content/dream_evolution.mp4
