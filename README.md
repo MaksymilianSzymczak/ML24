@@ -1,10 +1,10 @@
-# 🚀 Machine Learning & Deep Learning Portfolio
+# Machine Learning & Deep Learning Portfolio
 
 Witaj w moim repozytorium poświęconym zaawansowanym zagadnieniom Data Science. Znajdziesz tutaj projekty obejmujące zarówno klasyczne modelowanie statystyczne, jak i nowoczesne techniki Deep Learningu.
 
 ---
 
-## 🛡️ Deep Learning & Security (Top Picks)
+## Deep Learning & Security (Top Picks)
 *Projekty skupiające się na architekturze sieci neuronowych oraz ich odporności na ataki – kluczowe w sektorze płatniczym.*
 
 * **[Adversarial Robustness and Interpretability of CNNs](https://github.com/MaksymilianSzymczak/ML24/blob/main/domowe10.ipynb)**
@@ -18,7 +18,7 @@ Witaj w moim repozytorium poświęconym zaawansowanym zagadnieniom Data Science.
 
 <br />
 
-## 📊 Statistical Modeling & Classical ML
+## Statistical Modeling & Classical ML
 *Solidne fundamenty analizy danych i optymalizacji parametrów modeli.*
 
 * **[Penalized Regression: Bias Analysis](https://github.com/MaksymilianSzymczak/ML24/blob/main/domowe_4.ipynb)**
@@ -30,7 +30,7 @@ Witaj w moim repozytorium poświęconym zaawansowanym zagadnieniom Data Science.
 
 <br />
 
-## 📈 Unsupervised Learning & Dimensionality Reduction
+## Unsupervised Learning & Dimensionality Reduction
 *Techniki odkrywania wzorców w nieetykietowanych zbiorach danych.*
 
 * **[PCA on 3D Clustered Data](https://github.com/MaksymilianSzymczak/ML24/blob/main/Domowe_1.1.ipynb)** – Redukcja wymiarowości z zachowaniem wariancji.
