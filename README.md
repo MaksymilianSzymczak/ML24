@@ -1,39 +1,39 @@
 # Machine Learning & Deep Learning Portfolio
 
-Witaj w moim repozytorium poświęconym zaawansowanym zagadnieniom Data Science. Znajdziesz tutaj projekty obejmujące zarówno klasyczne modelowanie statystyczne, jak i nowoczesne techniki Deep Learningu.
+Welcome to my repository dedicated to advanced Data Science topics. This collection features projects spanning from classical statistical modeling to state-of-the-art Deep Learning techniques.
 
 ---
 
 ## Deep Learning & Security (Top Picks)
-*Projekty skupiające się na architekturze sieci neuronowych oraz ich odporności na ataki – kluczowe w sektorze płatniczym.*
+*Projects focusing on neural network architectures and their robustness against attacks—critical for the payments and security sector.*
 
 * **[Adversarial Robustness and Interpretability of CNNs](https://github.com/MaksymilianSzymczak/ML24/blob/main/domowe10.ipynb)**
-  * Badanie podatności sieci LeNet-5 na ataki typu *adversarial examples*.
-  * Implementacja optymalizacji perturbacji z wykorzystaniem kary L2.
+  * Investigating LeNet-5 vulnerabilities to *adversarial examples*.
+  * Implementing perturbation optimization using L2 regularization to maintain human-imperceptible changes.
 * **[Do Androids Dream of Electric Sheep? (CNN Dreams)](https://github.com/MaksymilianSzymczak/ML24/blob/main/domowe9.ipynb)**
-  * Wizualizacja cech (Feature Visualization) poprzez optymalizację wejścia.
-  * **[Zobacz animację ewolucji snu sieci](https://github.com/MaksymilianSzymczak/ML24/blob/main/dream_evolution%20(4).mp4)**
+  * Feature Visualization via input optimization to understand CNN internal representations.
+  * **[View CNN Dream Evolution Animation](https://github.com/MaksymilianSzymczak/ML24/blob/main/dream_evolution%20(4).mp4)**
 * **[Understanding Deconvolution in Autoencoders](https://github.com/MaksymilianSzymczak/ML24/blob/main/domowe_11.ipynb)**
-  * Analiza procesu rekonstrukcji obrazu i warstw dekonwolucyjnych.
+  * Deep dive into image reconstruction processes and deconvolutional layers.
 
 <br />
 
 ## Statistical Modeling & Classical ML
-*Solidne fundamenty analizy danych i optymalizacji parametrów modeli.*
+*Robust data science foundations and model parameter optimization.*
 
 * **[Penalized Regression: Bias Analysis](https://github.com/MaksymilianSzymczak/ML24/blob/main/domowe_4.ipynb)**
-  * Analiza wpływu regularyzacji (Lasso/Ridge) na obciążenie (bias) modelu.
+  * Analyzing the impact of regularization (Lasso/Ridge) on model bias and performance.
 * **[Logistic Regression: Threshold Optimization](https://github.com/MaksymilianSzymczak/ML24/blob/main/domowe_3.2.ipynb)**
-  * Dobieranie optymalnego punktu odcięcia w klasyfikacji – kluczowe przy modelach Risk & Fraud.
+  * Fine-tuning classification thresholds—an essential skill for Risk & Fraud detection models.
 * **[Polynomial Kernel SVM in 3D Space](https://github.com/MaksymilianSzymczak/ML24/blob/main/Domowe_5.1.ipynb)**
-  * Wykorzystanie triku jądrowego do separacji danych w wyższych wymiarach.
+  * Utilizing the kernel trick for non-linear data separation in high-dimensional feature spaces.
 
 <br />
 
 ## Unsupervised Learning & Dimensionality Reduction
-*Techniki odkrywania wzorców w nieetykietowanych zbiorach danych.*
+*Techniques for discovering patterns in unlabeled datasets.*
 
-* **[PCA on 3D Clustered Data](https://github.com/MaksymilianSzymczak/ML24/blob/main/Domowe_1.1.ipynb)** – Redukcja wymiarowości z zachowaniem wariancji.
-* **[EM Clustering in 2D](https://github.com/MaksymilianSzymczak/ML24/blob/main/domowe_2.ipynb)** – Grupowanie danych przy użyciu algorytmu Expectation-Maximization.
+* **[PCA on 3D Clustered Data](https://github.com/MaksymilianSzymczak/ML24/blob/main/Domowe_1.1.ipynb)** – Dimensionality reduction while preserving maximum variance.
+* **[EM Clustering in 2D](https://github.com/MaksymilianSzymczak/ML24/blob/main/domowe_2.ipynb)** – Data grouping using the Expectation-Maximization algorithm.
 
 ---
