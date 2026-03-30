@@ -12,7 +12,7 @@ Witaj w moim repozytorium poświęconym zaawansowanym zagadnieniom Data Science.
   * Implementacja optymalizacji perturbacji z wykorzystaniem kary L2.
 * **[Do Androids Dream of Electric Sheep? (CNN Dreams)](https://github.com/MaksymilianSzymczak/ML24/blob/main/domowe9.ipynb)**
   * Wizualizacja cech (Feature Visualization) poprzez optymalizację wejścia.
-  * **[🎥 Zobacz animację ewolucji snu sieci](https://github.com/MaksymilianSzymczak/ML24/blob/main/dream_evolution%20(4).mp4)**
+  * **[Zobacz animację ewolucji snu sieci](https://github.com/MaksymilianSzymczak/ML24/blob/main/dream_evolution%20(4).mp4)**
 * **[Understanding Deconvolution in Autoencoders](https://github.com/MaksymilianSzymczak/ML24/blob/main/domowe_11.ipynb)**
   * Analiza procesu rekonstrukcji obrazu i warstw dekonwolucyjnych.
 
