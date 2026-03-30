@@ -1,16 +1,20 @@
 Machine Learning: <br />
 &nbsp;
-&nbsp;
+
+
 Principal Component Analysis (PCA) on 3D Clustered Data:
 https://github.com/MaksymilianSzymczak/ML24/blob/fcea97e666f122def99a10ede31310784e645ca3/Domowe_1.1.ipynb
 &nbsp;
+
 
 EM Clustering in 2D: 
 https://github.com/MaksymilianSzymczak/ML24/blob/20d37939481c792866ea85f92a05dea99c4a1286/domowe_2.ipynb 
 &nbsp;
 
+
 Optimizing the Classification Threshold in Logistic Regression: https://github.com/MaksymilianSzymczak/ML24/blob/1d076fa719a0b329669ee4462cf9b0c5d858ceba/domowe_3.2.ipynb
 &nbsp;
+
 
 Analyzing and Plotting Bias in Penalized Regression:
 https://github.com/MaksymilianSzymczak/ML24/blob/2dd635f5a685109a4da581ac5ec7cea50119f609/domowe_4.ipynb
@@ -19,6 +23,7 @@ https://github.com/MaksymilianSzymczak/ML24/blob/2dd635f5a685109a4da581ac5ec7cea
 Polynomial Kernel SVM in 3D Feature Space: 
 https://github.com/MaksymilianSzymczak/ML24/blob/449ddec64890a63cfde35723d5a138b8ba832a57/Domowe_5.1.ipynb
 &nbsp;
+
 
 *Do Androids Dream of Electric Sheep?*: https://github.com/MaksymilianSzymczak/ML24/blob/ac91a21a1fe1a71a61c4ecb62ab62638d32cd29a/domowe9.ipynb
 
